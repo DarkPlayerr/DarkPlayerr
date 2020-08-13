@@ -11,4 +11,4 @@ You can find my expriements here including,
 - [DarkLink](https://github.com/DarkPlayerr/DarkLink), a URL shortener
 - and more!
 
-[![My GitHub stats](https:/github-readme-stats-pxivfk3c1.vercel.app/api?username=DarkPlayerr&show_icons=true&theme=blackred)](https://github.com/DarkPlayerr/github-readme-stats)
+[![My GitHub stats](https:/github-readme-stats-mu-snowy.vercel.app/api?username=DarkPlayerr&show_icons=true&theme=blackred)](https://github.com/DarkPlayerr/github-readme-stats)
