@@ -5,11 +5,10 @@ About me:
 - I have no coding experience
 
 You can find my expriements here including,
-- device trees for numerous custom roms for the Google Pixel 1 & 1 XL
- including ionOS, crDroid and more
-- DarkOUB, a Telegram userbot
-- DarkPage, a chrome startpage extension
-- DarkLink, a URL shortener
+- [device trees for numerous custom roms for the Google Pixel 1 & 1 XL including ionOS, crDroid and more](https://github.com/DarkPlayerr/android_device_google_marlin)
+- [DarkOUB](https://github.com/DarkPlayerr/DarkOUB), a Telegram userbot
+- [DarkPage](https://github.com/DarkPlayerr/DarkPage), a Chrome start page extension
+- [DarkLink](https://github.com/DarkPlayerr/DarkLink), a URL shortener
 - and more!
 
 [![My GitHub stats](https://github-readme-stats-7jg03uzhd.vercel.app/api?username=DarkPlayerr&show_icons=true&theme=blackred)](https://github.com/DarkPlayerr/github-readme-stats)
