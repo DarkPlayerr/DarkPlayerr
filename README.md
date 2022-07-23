@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/DarkPlayerr/DarkPlayerr/master/images/banner.png)
 
-# Hello, I'm DarkPlayer! 👋
+# Hello, I'm DarkPlayer! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DarkPlayerr&style=for-the-badge)
 [![Twitter](https://img.shields.io/twitter/follow/dvrkplayer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=dvrkplayer)
