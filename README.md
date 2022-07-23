@@ -1,13 +1,19 @@
-Hey, I'm DarkPlayer!
+![](https://raw.githubusercontent.com/DarkPlayerr/DarkPlayerr/master/images/banner.png)
 
-About me:
-- I'm 16 years old
-- I have no coding experience
+# Hello, I'm DarkPlayer! 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=DarkPlayerr&style=for-the-badge)
+[![Twitter](https://img.shields.io/twitter/follow/dvrkplayer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=dvrkplayer)
+[![Telegram](https://img.shields.io/static/v1?label=&message=darkplayer&logo=telegram&logoColor=blue&color=gray&style=for-the-badge)](https://t.me/dvrkplayer)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=595aff&color=gray)](https://mastodon.social/web/@notdxrk)
+[![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=orange&color=gray)](https://forum.xda-developers.com/m/dar3kplaygam3s.6728109/)
+
+## About me:
+- he/him 🏳️‍🌈
+- 17 years old
 - 🇻🇳 living in 🇵🇱
+- tech geek
 
-You can find my experiments here including,
-- My device trees for the: [Pixel 1 & 1 XL](https://github.com/DarkPlayerr/android_device_google_marlin), [Pixel 2](https://github.com/DarkPlayerr/device_google_walleye), [Pixel 2 XL](https://github.com/DarkPlayerr/device_google_taimen), [Pixel 2 common](https://github.com/DarkPlayerr/device_google_wahoo),
-- my [spicetify](https://github.com/DarkPlayerr/spicetify) theme,
-- and more!
+## 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkPlayerr&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=e9333c&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkPlayerr&show_icons=true&count_private=true&include_all_commits=true&title_color=FAF9F6&text_color=FAF9F6&icon_color=FAF9F6&bg_color=111111)](https://github.com/anuraghazra/github-readme-stats)
