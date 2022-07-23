@@ -2,7 +2,7 @@
 
 # Hello, I'm DarkPlayer! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DarkPlayerr&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=DarkPlayerr&style=for-the-badge&color=1DA1F2)
 [![Twitter](https://img.shields.io/twitter/follow/dvrkplayer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=dvrkplayer)
 [![Telegram](https://img.shields.io/static/v1?label=&message=darkplayer&logo=telegram&logoColor=blue&color=gray&style=for-the-badge)](https://t.me/dvrkplayer)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=595aff&color=gray)](https://mastodon.social/web/@notdxrk)
