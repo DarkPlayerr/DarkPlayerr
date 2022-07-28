@@ -16,4 +16,4 @@
 
 ## 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkPlayerr&show_icons=true&count_private=true&include_all_commits=true&title_color=FAF9F6&text_color=FAF9F6&icon_color=FAF9F6&bg_color=111111)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkPlayerr&show_icons=true&count_private=true&include_all_commits=true&title_color=FAF9F6&text_color=FAF9F6&icon_color=FAF9F6&bg_color=18191A)](https://github.com/anuraghazra/github-readme-stats)
