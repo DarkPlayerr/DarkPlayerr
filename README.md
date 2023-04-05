@@ -5,12 +5,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DarkPlayerr&style=for-the-badge&color=1DA1F2)
 [![Twitter](https://img.shields.io/twitter/follow/dvrkplayer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=dvrkplayer)
 [![Telegram](https://img.shields.io/static/v1?label=&message=darkplayer&logo=telegram&logoColor=blue&color=gray&style=for-the-badge)](https://t.me/dvrkplayer)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=595aff&color=gray)](https://androiddev.social/@darkplayer)
 [![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=orange&color=gray)](https://forum.xda-developers.com/m/dar3kplaygam3s.6728109/)
 
 ## About me:
 - he/him 🏳️‍🌈
-- 17 years old
+- 18 years old
 - 🇻🇳 living in 🇵🇱
 - tech geek
 
