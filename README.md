@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DarkPlayerr&style=for-the-badge&color=1DA1F2)
 [![Twitter](https://img.shields.io/twitter/follow/dvrkplayer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=dvrkplayer)
-[![Telegram](https://img.shields.io/static/v1?label=&message=darkplayer&logo=telegram&logoColor=blue&color=gray&style=for-the-badge)](https://t.me/dvrkplayer)
+[![Telegram](https://img.shields.io/static/v1?label=&message=darkplayer&logo=telegram&logoColor=1DA1F2&color=gray&style=for-the-badge)](https://t.me/dvrkplayer)
 [![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=orange&color=gray)](https://forum.xda-developers.com/m/dar3kplaygam3s.6728109/)
 
 ## About me:
@@ -12,7 +12,10 @@
 - 18 years old
 - 🇻🇳 living in 🇵🇱
 - tech geek
+- ui/ux designer for [tequilaOS](https://github.com/tequilaOS/)
 
-## 
+## Website
+Check out my personal website! [darkplayer.me](https://darkplayer.me)
+
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkPlayerr&show_icons=true&count_private=true&include_all_commits=true&title_color=FAF9F6&text_color=FAF9F6&icon_color=FAF9F6&bg_color=18191A)](https://github.com/anuraghazra/github-readme-stats)
