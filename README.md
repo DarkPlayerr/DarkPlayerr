@@ -12,7 +12,7 @@
 - 19 years old
 - 🇻🇳 living in 🇵🇱
 - tech geek
-- ui/ux designer for [tequilaOS](https://github.com/tequilaOS/)
+- ui/ux designer for [PixelBuilds](https://pixelbuilds.org) and [tequilaOS](https://tequilaos.org)
 
 ## Website
 Check out my personal website! [darkplayer.me](https://darkplayer.me)
