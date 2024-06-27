@@ -9,7 +9,7 @@
 
 ## About me:
 - he/him 🏳️‍🌈
-- 18 years old
+- 19 years old
 - 🇻🇳 living in 🇵🇱
 - tech geek
 - ui/ux designer for [tequilaOS](https://github.com/tequilaOS/)
